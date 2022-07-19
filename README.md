@@ -7,5 +7,3 @@
 ![alt text](https://github.com/OleksandrZhabko/test_task/blob/main/images/test_3.png)
 ## Image
 ![alt text](https://github.com/OleksandrZhabko/test_task/blob/main/images/test_4.png)
-## Container
-![alt text](https://github.com/OleksandrZhabko/test_task/blob/main/images/test_5.png)
